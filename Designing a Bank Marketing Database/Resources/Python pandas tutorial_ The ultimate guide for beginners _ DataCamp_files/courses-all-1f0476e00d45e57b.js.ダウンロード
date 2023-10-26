@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[69650],{31469:function(n,u,_){"use strict";_.r(u),_.d(u,{__N_SSP:function(){return t}});var r=_(84123),t=!0;u.default=r.Z},87028:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/courses-all",function(){return _(31469)}])}},function(n){n.O(0,[22028,89077,63364,89755,13537,72529,68845,76982,35996,2169,46406,81168,84123,49774,92888,40179],(function(){return u=87028,n(n.s=u);var u}));var u=n.O();_N_E=u}]);
+//# sourceMappingURL=courses-all-1f0476e00d45e57b.js.map
