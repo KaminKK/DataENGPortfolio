@@ -6,9 +6,6 @@ url = "https://raw.githubusercontent.com/erood/interviewqs.com_code_snippets/mas
 # Read the CSV file into a DataFrame
 df = pd.read_csv(url)
 
-print(df.head())
-
-
 # Assuming you have already loaded the data into a DataFrame named df
 
 # Convert the 'date' column to a datetime object
