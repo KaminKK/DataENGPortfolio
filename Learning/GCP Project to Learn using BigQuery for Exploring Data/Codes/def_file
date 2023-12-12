@@ -1,0 +1,11 @@
+{
+  "autodetect": true,
+  "csvOptions": {
+    "encoding": "UTF-8",
+    "quote": "\""
+  },
+  "sourceFormat": "CSV",
+  "sourceUris": [
+    "gs://dezyre-test-bucket1/data/flights.csv"
+  ]
+}

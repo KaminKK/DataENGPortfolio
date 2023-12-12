@@ -1,0 +1,25 @@
+1.Reading in and splitting the data
+2.Cleaning the data
+3.Saving the data
+4.Designing the database
+
+
+Step to complete
+1.Reading in and splitting the data
+　・Reading in the dataset as a pandas DataFrame
+　・Splitting the data
+
+2.Cleaning the data
+　・Renaming columns
+　・Cleaning columns
+　・Creating new columns
+　・Deleting columns
+
+3.Saving the data
+　・Store the DataFreames
+
+4.Designing the database
+　・Writing strings over multiple lines
+　・Creating the client table
+　・Creating the campaign table
+　・Setting up the economics table

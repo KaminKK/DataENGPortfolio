@@ -1,0 +1,15 @@
+[
+	  {
+		      "name": "qtr",
+		          "type": "STRING"
+			    },
+			      {
+				          "name": "sales",
+					      "type": "FLOAT"
+					        },
+						  {
+							      "name": "year",
+							          "type": "STRING"
+								    }
+]
+
